@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  '@younesyahya/components-tokens':
+    specifier: ^1.0.0
+    version: 1.0.0
+
 devDependencies:
   '@types/jest':
     specifier: ^29.5.7
@@ -749,6 +754,10 @@ packages:
     dependencies:
       '@types/yargs-parser': 21.0.2
     dev: true
+
+  /@younesyahya/components-tokens@1.0.0:
+    resolution: {integrity: sha512-vr7u0nofGcCCoe7kJWp3FJjFHut/Q6DrUHrKc0ZhBKhErjcxbqRuA2pQTQLZSj+3jOZ77wvvqziNVC8b+0StfA==}
+    dev: false
 
   /acorn-walk@8.3.0:
     resolution: {integrity: sha512-FS7hV565M5l1R08MXqo8odwMTB02C2UqzB17RVgu9EyuYFBqJZ3/ZY97sQD5FewVu1UyDFc1yztUDrAwT0EypA==}
