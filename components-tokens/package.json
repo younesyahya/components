@@ -1,0 +1,25 @@
+{
+  "name": "@younesyahya/components-tokens",
+  "version": "1.0.1",
+  "description": "Personal components library for personal apps",
+  "main": "dist/index.common.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "components",
+    "design-tokens"
+  ],
+  "repository": "https://github.com/younesyahya/components/components-tokens",
+  "bugs": {
+    "url": "https://github.com/younesyahya/components/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "@shopify:registry": "https://registry.npmjs.org"
+  },
+  "author": "younesyahya",
+  "license": "MIT"
+}

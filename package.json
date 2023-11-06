@@ -6,7 +6,8 @@
     "node": "^16.17.0 || >=18.12.0"
   },
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "build": "turbo run build"
   },
   "keywords": [
     "react",
