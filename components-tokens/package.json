@@ -1,6 +1,6 @@
 {
   "name": "@younesyahya/components-tokens",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A set of design tokens for the components project",
   "main": "dist/index.common.js",
   "module": "dist/index.esm.js",
